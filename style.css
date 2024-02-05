@@ -1,0 +1,14 @@
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  scroll-padding-top: 2rem;
+}
+
+:root {
+  --main-color: blue;
+  --body-color: black;
+  --container-color:
+}
